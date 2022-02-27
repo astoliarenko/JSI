@@ -60,7 +60,7 @@ const headerLayout = {
 
 const TOOLBAR_BTN_WIDTH = 38;
 const TOOLBAR_BTN_HEIGHT = 38;
-const btnImgPath = "../FurnitureAppIcons/";
+const btnImgPath = "../../img/toolbarIcons/";
 
 const btnActions = {
 	view: "menu",
